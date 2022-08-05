@@ -19,8 +19,9 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url(/digtal-clock/assets/images/background.png);
+    background: url(./images/background.png);
     background-size: cover;
+    object-fit: cover;
     overflow: hidden;
 }
 h2.digital-title{
